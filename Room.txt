@@ -1,0 +1,2 @@
+R001@_@Single Room@_@120.0
+R002@_@Double Room@_@180.0
